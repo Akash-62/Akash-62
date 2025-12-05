@@ -365,7 +365,7 @@ understand, remember & adapt
 
 <br>
 
-**Thanks for stopping by! Let's build something amazing together 🚀**
+<h2>**Thanks for stopping by! Let's build something amazing together 🚀**</h2>
 
 <br>
 
