@@ -200,13 +200,6 @@ understand, remember & adapt
 &nbsp;
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Akash-62&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=FFFFFF"/>
 
-<br><br>
-
-<!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=Akash-62&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=5"/>
-
-<br>
-
 <!-- Activity Graph -->
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Akash-62&bg_color=0D1117&color=00D9FF&line=FF6B6B&point=FFFFFF&area=true&hide_border=true"/>
 
