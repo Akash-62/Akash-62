@@ -1,9 +1,9 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Akash%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20GenAI%20Developer%20%7C%20AI%20Architect&descAlignY=52&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Akash%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20GenAI%20Developer%20%7C%20LLM%20Specialist&descAlignY=52&descSize=18"/>
 
 <div align="center">
 
 <!-- Animated Banner -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%9A%80+Building+AI+That+Actually+Works;%F0%9F%A4%96+LLMs+%7C+NLP+%7C+AI+Agents+%7C+Automation;%F0%9F%8E%AF+Turning+Ideas+Into+Products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%A7%A0+AI+Engineer+%7C+LLM+Specialist;%F0%9F%94%A5+RAG+%7C+NLP+%7C+AI+Agents+%7C+GenAI;%F0%9F%9A%80+Building+Production-Ready+AI+Systems" alt="Typing SVG" />
 
 <br>
 
@@ -13,7 +13,7 @@
 <br><br>
 
 <!-- Quick Links -->
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-FF6B6B?style=for-the-badge&logoColor=white)](https://akash-62.github.io/Portfolio/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-FF6B6B?style=for-the-badge&logoColor=white)](https://akash-s-portfolio-five.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-s62/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akashsofficial62@gmail.com)
 ![Visitors](https://komarev.com/ghpvc/?username=Akash-62&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
@@ -29,17 +29,17 @@
 
 ```javascript
 const akash = {
-    role: "Software Engineer & GenAI Developer",
+    role: "AI Engineer & GenAI Developer",
     location: "India 🇮🇳",
-    currentFocus: "AI Developer Assistant",
+    currentFocus: "Building AI Systems that Ship",
     
-    passion: [
-        "Building scalable AI products with great UX",
-        "Working on LLMs, NLP, AI agents, automation",
-        "Creating practical, real-world AI systems"
+    expertise: [
+        "🧠 LLMs, RAG, AI Agents & Prompt Engineering",
+        "🔊 Speech-to-Text, NLP & Document Intelligence",
+        "⚡ End-to-end AI product development"
     ],
     
-    funFact: "I debug code faster than I debug my sleep schedule 😄"
+    motto: "If it's not deployed, it's not done 🚀"
 };
 ```
 
@@ -89,84 +89,6 @@ const akash = {
 <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
-
-</div>
-
-<!-- Animated Line -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30"> Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔐 Druva
-<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="100%">
-
-**AI-Powered Document Intelligence**
-
-Extract, analyze & secure your documents with cutting-edge AI
-
-[![View Project](https://img.shields.io/badge/View_Project-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akash-62)
-
-</td>
-<td width="50%">
-
-### 🎙️ SOCA
-<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="100%">
-
-**Voice-Enabled AI Assistant**
-
-Real-time speech processing with intelligent responses
-
-[![View Project](https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akash-62)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🏥 MediBot
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="100%">
-
-**Healthcare AI Chatbot**
-
-RAG-powered medical information assistant
-
-[![View Project](https://img.shields.io/badge/View_Project-10B981?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akash-62)
-
-</td>
-<td width="50%">
-
-### 🎨 Crezia
-<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="100%">
-
-**AI Content Creation Tool**
-
-Multi-modal generation for creative content
-
-[![View Project](https://img.shields.io/badge/View_Project-EC4899?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akash-62)
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
-### 🔍 Truva
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
-
-**Intelligent Search Engine**
-
-Semantic understanding meets lightning-fast search
-
-[![View Project](https://img.shields.io/badge/View_Project-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akash-62)
-
-</td>
-</tr>
-</table>
 
 </div>
 
@@ -280,7 +202,7 @@ Semantic understanding meets lightning-fast search
 
 ### 💡 Open for Collaborations on
 
-`AI Projects` `LLM Applications` `NLP Solutions` `Full-Stack Development` `Open Source`
+`LLM Applications` `RAG Systems` `AI Agents` `NLP Solutions` `GenAI Products`
 
 </div>
 
