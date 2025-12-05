@@ -111,68 +111,103 @@ understand, remember & adapt
 <!-- Animated Line -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="30"> Tech Arsenal
+## <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="30"> Tech Stack
 
 <div align="center">
 
-### 💻 Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,html,css&theme=dark" />
-</p>
+<!-- Cool Tech Animation -->
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
 
-### 🤖 AI/ML & Data
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-</p>
-<p>
-<img src="https://img.shields.io/badge/NLP-8B5CF6?style=for-the-badge&logo=spacy&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG-EC4899?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMs-10B981?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Vector_DBs-FF6B6B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white"/>
-</p>
+<br><br>
 
-### 🌐 Web & Frameworks
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flask,fastapi,tailwind,vite&theme=dark" />
-</p>
+<!-- AI/ML Section - MAIN FOCUS -->
+<details open>
+<summary><b>🧠 AI & Machine Learning</b></summary>
+<br>
 
-### ☁️ Cloud & DevOps
-<p>
-<img src="https://skillicons.dev/icons?i=aws,azure,firebase,docker,kubernetes,git,github&theme=dark" />
-</p>
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=python" width="50"/><br><sub><b>Python</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" width="50"/><br><sub><b>TensorFlow</b></sub></td>
+<td align="center"><img src="https://img.shields.io/badge/🦜-LangChain-1C3C3C?style=flat-square" height="50"/><br><sub><b>LangChain</b></sub></td>
+<td align="center"><img src="https://img.shields.io/badge/🤗-HuggingFace-FFD21E?style=flat-square" height="50"/><br><sub><b>HuggingFace</b></sub></td>
+<td align="center"><img src="https://img.shields.io/badge/🔮-OpenAI-412991?style=flat-square" height="50"/><br><sub><b>OpenAI</b></sub></td>
+</tr>
+</table>
 
-### 🛠️ Tools & Others
-<p>
-<img src="https://img.shields.io/badge/OCR-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Speech_to_Text-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
+![LLMs](https://img.shields.io/badge/LLMs-00D9FF?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-EC4899?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-8B5CF6?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI_Agents-10B981?style=for-the-badge)
+![Speech-to-Text](https://img.shields.io/badge/Speech--to--Text-FF6B6B?style=for-the-badge)
+![OCR](https://img.shields.io/badge/OCR-FF6F00?style=for-the-badge)
+
+</details>
+
+<br>
+
+<!-- Languages -->
+<details>
+<summary><b>💻 Languages</b></summary>
+<br>
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,html,css&theme=dark" />
+<br><br>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+</details>
+
+<br>
+
+<!-- Web & Frameworks -->
+<details>
+<summary><b>🌐 Web & Frameworks</b></summary>
+<br>
+<img src="https://skillicons.dev/icons?i=react,nodejs,flask,fastapi,tailwind,vite&theme=dark" />
+</details>
+
+<br>
+
+<!-- Cloud & DevOps -->
+<details>
+<summary><b>☁️ Cloud & DevOps</b></summary>
+<br>
+<img src="https://skillicons.dev/icons?i=aws,azure,firebase,docker,git,github&theme=dark" />
+</details>
+
+<br>
+
+<!-- Databases & Vector DBs -->
+<details>
+<summary><b>🗄️ Databases & Vector Stores</b></summary>
+<br>
+
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</details>
 
 </div>
 
 <!-- Animated Line -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <img src="https://user-images.githubusercontent.com/74038190/216124356-9c652f85-a9a5-4cd2-b30f-a2a2f3f27937.gif" width="30"> GitHub Analytics
+## <img src="https://user-images.githubusercontent.com/74038190/216124356-9c652f85-a9a5-4cd2-b30f-a2a2f3f27937.gif" width="30"> GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Akash-62&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash-62&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" height="180"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Akash-62&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=FFFFFF&ring_color=00D9FF"/>
+&nbsp;
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Akash-62&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=FFFFFF"/>
 
-<br>
+<br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-62&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" height="180"/>
+<!-- Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=Akash-62&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=5"/>
 
 <br>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akash-62&bg_color=0D1117&color=00D9FF&line=FF6B6B&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Akash-62&bg_color=0D1117&color=00D9FF&line=FF6B6B&point=FFFFFF&area=true&hide_border=true"/>
 
 </div>
 
