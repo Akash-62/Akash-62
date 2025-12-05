@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,50:1a1a2e,100:16213e&height=230&section=header&text=AKASH%20S&fontSize=80&fontColor=00d9ff&animation=fadeIn&fontAlignY=40&desc=🧠%20AI%20Engineer%20%20•%20%20🤖%20GenAI%20Developer%20%20•%20%20⚡%20LLM%20Specialist&descAlignY=65&descSize=18&descColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:000000,50:091021,100:001f3f&text=AKASH%20S&fontSize=75&fontColor=00FFC6&fontAlignY=40&animation=twinkling&desc=🧠%20AI%20Engineer%20•%20⚡%20GenAI%20Developer%20•%20🤖%20LLM%20Specialist&descAlignY=65&descSize=22&descColor=FFFFFF"/>
 
 <div align="center">
 
