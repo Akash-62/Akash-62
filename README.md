@@ -1,22 +1,42 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Akash%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20GenAI%20Developer%20%7C%20LLM%20Specialist&descAlignY=52&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=AKASH%20S&fontSize=60&fontColor=00d9ff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20•%20GenAI%20Developer%20•%20LLM%20Specialist&descAlignY=55&descSize=20&descColor=ffffff"/>
 
 <div align="center">
 
-<!-- Animated Banner -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%A7%A0+AI+Engineer+%7C+LLM+Specialist;%F0%9F%94%A5+RAG+%7C+NLP+%7C+AI+Agents+%7C+GenAI;%F0%9F%9A%80+Building+Production-Ready+AI+Systems" alt="Typing SVG" />
+<!-- Glowing Name Effect -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&height=45&lines=AI+Engineer+%26+LLM+Specialist+%F0%9F%A7%A0;Building+Production-Ready+AI+Systems+%F0%9F%9A%80;RAG+%7C+NLP+%7C+AI+Agents+%7C+GenAI+%F0%9F%94%A5;Making+AI+Work+For+People+%E2%9C%A8" alt="Typing SVG" />
 
 <br>
 
-<!-- Animated Character -->
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="450">
+<!-- Cool Animated Robot -->
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
+
+<br>
+
+<!-- Status Badges -->
+<img src="https://img.shields.io/badge/Focus-Generative_AI-00d9ff?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Living-India-ff6b6b?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Languages-English%20%26%20Tamil-10b981?style=for-the-badge"/>
 
 <br><br>
 
-<!-- Quick Links -->
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-FF6B6B?style=for-the-badge&logoColor=white)](https://akash-s-portfolio-five.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-s62/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akashsofficial62@gmail.com)
-![Visitors](https://komarev.com/ghpvc/?username=Akash-62&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
+<!-- Animated Social Links -->
+<a href="https://akash-s-portfolio-five.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/akash-s62/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:akashsofficial62@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://github.com/Akash-62">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<br><br>
+
+![Visitors](https://komarev.com/ghpvc/?username=Akash-62&color=00d9ff&style=for-the-badge&label=VISITORS)
+<img src="https://img.shields.io/github/followers/Akash-62?style=for-the-badge&color=ff6b6b&labelColor=1a1a2e&logo=github" alt="followers"/>
 
 </div>
 
@@ -25,70 +45,118 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30"> About Me
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350">
+<table>
+<tr>
+<td width="60%">
 
-```javascript
-const akash = {
-    role: "AI Engineer & GenAI Developer",
-    location: "India 🇮🇳",
-    currentFocus: "Building AI Systems that Ship",
+```python
+class AIEngineer:
+    def __init__(self):
+        self.name = "Akash S"
+        self.role = "AI Engineer & GenAI Developer"
+        self.location = "India 🇮🇳"
+        
+    def skills(self):
+        return {
+            "AI/ML": ["LLMs", "RAG", "NLP", "AI Agents"],
+            "Frameworks": ["LangChain", "TensorFlow", "PyTorch"],
+            "Cloud": ["AWS", "Azure", "Firebase"],
+            "Web": ["React", "Node.js", "FastAPI"]
+        }
     
-    expertise: [
-        "🧠 LLMs, RAG, AI Agents & Prompt Engineering",
-        "🔊 Speech-to-Text, NLP & Document Intelligence",
-        "⚡ End-to-end AI product development"
-    ],
+    def current_focus(self):
+        return "Building AI that ships to production 🚀"
     
-    motto: "If it's not deployed, it's not done 🚀"
-};
+    def fun_fact(self):
+        return "I turn coffee into AI models ☕→🤖"
+
+me = AIEngineer()
 ```
 
-<br clear="right"/>
+</td>
+<td width="40%">
+
+<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="100%">
+
+**What I Do:**
+- 🧠 Design & deploy LLM applications
+- 🔗 Build RAG pipelines & AI agents  
+- 🎤 Speech-to-Text & NLP systems
+- 📄 Document intelligence solutions
+- ⚡ End-to-end AI product development
+
+</td>
+</tr>
+</table>
 
 <!-- Animated Line -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="30"> Tech Arsenal
+## <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="30"> Tech Stack
 
 <div align="center">
 
-### 💻 Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,html,css&theme=dark" />
-</p>
+<!-- Animated Tech Banner -->
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80">
 
-### 🤖 AI/ML & Data
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-</p>
-<p>
-<img src="https://img.shields.io/badge/NLP-8B5CF6?style=for-the-badge&logo=spacy&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG-EC4899?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMs-10B981?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Vector_DBs-FF6B6B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white"/>
-</p>
+<br><br>
 
-### 🌐 Web & Frameworks
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flask,fastapi,tailwind,vite&theme=dark" />
-</p>
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🧠 AI & Machine Learning
+<br>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark" />
+<br><br>
+<img src="https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=flat-square"/>
+<img src="https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=flat-square"/>
+<img src="https://img.shields.io/badge/🔮_OpenAI-412991?style=flat-square"/>
+<br>
+<img src="https://img.shields.io/badge/RAG-EC4899?style=flat-square"/>
+<img src="https://img.shields.io/badge/LLMs-10B981?style=flat-square"/>
+<img src="https://img.shields.io/badge/NLP-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI_Agents-FF6B6B?style=flat-square"/>
+
+</td>
+<td align="center" width="50%">
+
+### 💻 Languages & Web
+<br>
+<img src="https://skillicons.dev/icons?i=js,ts,java,html,css&theme=dark" />
+<br><br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flask,fastapi&theme=dark" />
+<br><br>
+<img src="https://skillicons.dev/icons?i=tailwind,vite&theme=dark" />
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
 
 ### ☁️ Cloud & DevOps
-<p>
-<img src="https://skillicons.dev/icons?i=aws,azure,firebase,docker,kubernetes,git,github&theme=dark" />
-</p>
+<br>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,firebase&theme=dark" />
+<br><br>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github&theme=dark" />
 
-### 🛠️ Tools & Others
-<p>
-<img src="https://img.shields.io/badge/OCR-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Speech_to_Text-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
+</td>
+<td align="center" width="50%">
+
+### 🛠️ Databases & Tools
+<br>
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis&theme=dark" />
+<br><br>
+<img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone"/>
+<img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Weaviate-00D9FF?style=flat-square"/>
+<br>
+<img src="https://img.shields.io/badge/OCR-FF6F00?style=flat-square"/>
+<img src="https://img.shields.io/badge/Speech_AI-4285F4?style=flat-square"/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -157,24 +225,32 @@ const akash = {
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" width="400">
-
-<br><br>
-
 <table>
 <tr>
-<td>
-<h3>🧠 AI Developer Assistant</h3>
+<td align="center">
 
-```
-┌─────────────────────────────────────────┐
-│  🎤 Voice Interface with Memory         │
-│  🖼️ Image Generation Integration        │
-│  💬 Context-Aware Conversations         │
-│  🎨 Responsive & Beautiful UX           │
-│  ⚡ Making AI that remembers & adapts   │
-└─────────────────────────────────────────┘
-```
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80">
+
+### 🚀 AI Developer Assistant
+
+</td>
+</tr>
+<tr>
+<td>
+
+<div align="center">
+
+| Feature | Status |
+|---------|--------|
+| 🎤 Voice Interface with Memory | `In Progress` |
+| 🖼️ Image Generation Integration | `Building` |
+| 💬 Context-Aware Conversations | `Active` |
+| 🧠 Long-term Memory System | `Research` |
+| ⚡ Responsive & Beautiful UX | `Designing` |
+
+</div>
+
+> *"Making AI that remembers, adapts, and truly understands"*
 
 </td>
 </tr>
@@ -185,24 +261,27 @@ const akash = {
 <!-- Animated Line -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="30"> Let's Connect & Collaborate
+## <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="30"> Let's Connect
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4ee83c60b9b7.gif" width="350">
 
 <br><br>
 
-[![Portfolio](https://img.shields.io/badge/🌐_My_Portfolio-Visit_Now-FF6B6B?style=for-the-badge)](https://akash-62.github.io/Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-s62/)
-[![Email](https://img.shields.io/badge/Email-Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akashsofficial62@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akash-62)
+| 🌐 Portfolio | 💼 LinkedIn | 📧 Email | 🐙 GitHub |
+|:---:|:---:|:---:|:---:|
+| [![Portfolio](https://img.shields.io/badge/Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://akash-s-portfolio-five.vercel.app/) | [![LinkedIn](https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-s62/) | [![Email](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akashsofficial62@gmail.com) | [![GitHub](https://img.shields.io/badge/Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akash-62) |
 
 <br>
 
-### 💡 Open for Collaborations on
+### 🤝 Open for Collaborations
 
-`LLM Applications` `RAG Systems` `AI Agents` `NLP Solutions` `GenAI Products`
+<img src="https://img.shields.io/badge/LLM_Apps-00d9ff?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG_Systems-ff6b6b?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI_Agents-10b981?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP_Solutions-ec4899?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GenAI_Products-8b5cf6?style=for-the-badge"/>
 
 </div>
 
@@ -211,25 +290,18 @@ const akash = {
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<!-- Animated Rocket -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="350">
+
+<br>
+
+### ⭐ Enjoyed my profile? Drop a star on my repos!
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=28&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=%22Building+AI+that+works+for+people%22;%22Ship+fast%2C+iterate+faster%22;%22Code+with+purpose%22" alt="Quote" />
 
 <br><br>
-
-### ⭐ If you like what you see, give my repos a star!
-
-<br>
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   "Building AI that doesn't just work — it works for people" ║
-║                                                              ║
-║                        — Akash S                             ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-<br>
 
 <!-- Snake Animation -->
 <picture>
@@ -238,6 +310,15 @@ const akash = {
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
 </picture>
 
+<br><br>
+
+<!-- Footer Quote -->
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+   ✨ Thanks for visiting! Let's build something amazing together ✨
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=120&section=footer"/>
