@@ -214,37 +214,46 @@ understand, remember & adapt
 <!-- Animated Line -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="30"> Achievements & Certifications
+## <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="30"> Achievements
 
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+
+<br><br>
 
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="80">
-<br><b>🥇 Hackathon Winner</b>
-<br><sub>Built winning AI solution under pressure</sub>
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="100">
+<br>
+<h3>🥇 Hackathon Winner</h3>
+<sub>Built winning AI solution under pressure</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/216120986-f2752eb9-0e8a-4c4b-8b72-d7ac51f16e21.png" width="80">
-<br><b>📄 Research Paper</b>
-<br><sub>Co-authored publication in AI/ML domain</sub>
+<img src="https://user-images.githubusercontent.com/74038190/216120986-f2752eb9-0e8a-4c4b-8b72-d7ac51f16e21.png" width="100">
+<br>
+<h3>📄 Research Paper</h3>
+<sub>Co-authored publication in AI/ML</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" width="80">
-<br><b>🏏 Cricket Champion</b>
-<br><sub>Because balance matters!</sub>
+<img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" width="100">
+<br>
+<h3>🏏 Cricket Champion</h3>
+<sub>Because balance matters!</sub>
 </td>
 </tr>
 </table>
 
 <br>
 
-### 📜 Certifications
+### 🎓 Certifications
 
-![Azure](https://img.shields.io/badge/Microsoft_Azure-Certified-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_Developer-Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Developer_Certificate-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+<img src="https://img.shields.io/badge/Microsoft_Azure-Certified-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/AWS_Developer-Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/TensorFlow-Developer_Certificate-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 
 </div>
 
@@ -255,24 +264,38 @@ understand, remember & adapt
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" width="400">
-
-<br><br>
-
 <table>
 <tr>
 <td>
-<h3>🧠 AI Developer Assistant</h3>
 
-```
-┌─────────────────────────────────────────┐
-│  🎤 Voice Interface with Memory         │
-│  🖼️ Image Generation Integration        │
-│  💬 Context-Aware Conversations         │
-│  🎨 Responsive & Beautiful UX           │
-│  ⚡ Making AI that remembers & adapts   │
-└─────────────────────────────────────────┘
-```
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" width="300">
+
+<br>
+
+### 🧠 AI Developer Assistant
+
+**A next-gen coding companion with memory**
+
+</div>
+
+<br>
+
+| Module | Description | Status |
+|:------:|:------------|:------:|
+| 🎤 | Voice Interface with Memory | ![Building](https://img.shields.io/badge/-Building-00d9ff?style=flat-square) |
+| 🖼️ | Image Generation Integration | ![Active](https://img.shields.io/badge/-Active-10b981?style=flat-square) |
+| 💬 | Context-Aware Conversations | ![Testing](https://img.shields.io/badge/-Testing-ec4899?style=flat-square) |
+| 🎨 | Responsive & Beautiful UX | ![Designing](https://img.shields.io/badge/-Designing-ff6b6b?style=flat-square) |
+
+<br>
+
+<div align="center">
+
+*Making AI that remembers, adapts, and truly understands* ✨
+
+</div>
 
 </td>
 </tr>
@@ -283,24 +306,38 @@ understand, remember & adapt
 <!-- Animated Line -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="30"> Let's Connect & Collaborate
+## <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="30"> Let's Connect!
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
 <br><br>
 
-[![Portfolio](https://img.shields.io/badge/🌐_My_Portfolio-Visit_Now-FF6B6B?style=for-the-badge)](https://akash-62.github.io/Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-s62/)
-[![Email](https://img.shields.io/badge/Email-Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akashsofficial62@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akash-62)
+<a href="https://akash-s-portfolio-five.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/akash-s62/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:akashsofficial62@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/Akash-62">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<br>
+<br><br>
 
-### 💡 Open for Collaborations on
+### 🤝 Let's Collaborate On
 
-`LLM Applications` `RAG Systems` `AI Agents` `NLP Solutions` `GenAI Products`
+<img src="https://img.shields.io/badge/LLM_Applications-00d9ff?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG_Systems-ff6b6b?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI_Agents-10b981?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP_Solutions-ec4899?style=for-the-badge"/>
 
 </div>
 
@@ -309,33 +346,37 @@ understand, remember & adapt
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
 
 <br><br>
 
-### ⭐ If you like what you see, give my repos a star!
+### ⭐ Like what you see? Star my repos!
 
 <br>
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   "Building AI that doesn't just work — it works for people" ║
-║                                                              ║
-║                        — Akash S                             ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<img src="https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=25&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=50&lines=%E2%9C%A8+Building+AI+that+works+for+people+%E2%9C%A8;%F0%9F%9A%80+Ship+fast%2C+iterate+faster;%F0%9F%92%A1+Code+with+purpose" alt="Quote" />
 
-<br>
+<br><br>
 
-<!-- Snake Animation -->
+<!-- Snake eating contributions -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
 </picture>
 
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2"/>
+
+<br>
+
+**Thanks for stopping by! Let's build something amazing together 🚀**
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2"/>
+
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=150&section=footer&reversal=true"/>
