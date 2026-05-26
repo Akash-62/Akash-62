@@ -1,9 +1,9 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,50:0f172a,100:1e293b&text=AKASH%20S&fontSize=92&fontColor=00E8FF&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%E2%80%A2%20RAG%20%E2%80%A2%20LLMs%20%E2%80%A2%20Agentic%20AI&descAlignY=72&descSize=22&descColor=e2e8f0"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,50:0f172a,100:1e293b&text=AKASH%20S&fontSize=92&fontColor=00E8FF&animation=fadeIn&fontAlignY=38&desc=In%20progress%20%E2%80%94%20Learning%20fast%2C%20building%20faster&descAlignY=72&descSize=22&descColor=e2e8f0"/>
 
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=700&height=50&lines=Fine-tuned+Whisper+%E2%86%92+49%25+WER+drop;RAG+Pipelines+%E2%86%92+Production-Ready;Voice-First+AI+for+Indian+Farmers;Hackathon+Winner+%7C+IBM+%26+Azure+Certified;if+not+deployed%3A+not_done()" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=700&height=50&lines=AI%2FML+Engineer+in+progress;Learning+fast%2C+building+faster;Fine-tuned+Whisper+%E2%86%92+49%25+WER+drop;RAG+Pipelines+%E2%86%92+Production-Ready;Hackathon+Winner+%7C+IBM+%26+Azure+Certified" alt="Typing SVG" />
 
 <br>
 
@@ -72,8 +72,8 @@ class AkashS:
             "🌾 Voice-First AI for Real Users"
         ]
     
-    def shipping_standard(self):
-        return "If it's not deployed, it's not done."
+    def motto(self):
+        return "In progress — learning fast, building faster."
 
 me = AkashS()
 ```
@@ -88,8 +88,8 @@ me = AkashS()
 
 ### 💡 My Philosophy
 
-> *"If it's not deployed,*  
-> *it's not done."*
+> *"In progress —*  
+> *learning fast, building faster."*
 
 <br>
 
