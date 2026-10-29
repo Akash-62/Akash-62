@@ -4,15 +4,11 @@
   <img src="./assets/profile-dark.svg" width="100%" alt="Akash S, AI Engineer in Bengaluru. Animated portrait, neural network, document search, and code. Working with RAG, AI agents, speech models, Python, FastAPI, React, and Next.js." />
 </picture>
 
-<p align="center">
-  <a href="https://akash-s-portfolio-lco5.vercel.app/">Portfolio</a>
-  &nbsp; / &nbsp;
-  <a href="https://www.linkedin.com/in/akash-s62/">LinkedIn</a>
-  &nbsp; / &nbsp;
-  <a href="mailto:akashsofficial62@gmail.com">Email</a>
-</p>
-
-### Selected work
+<div align="center">
+  <a href="https://akash-s-portfolio-lco5.vercel.app/"><img src="./assets/link-portfolio.svg" width="110" height="44" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/akash-s62/"><img src="./assets/link-linkedin.svg" width="110" height="44" alt="LinkedIn" /></a>
+  <a href="mailto:akashsofficial62@gmail.com"><img src="./assets/link-email.svg" width="94" height="44" alt="Email" /></a>
+</div>
 
 <table>
   <tr>
