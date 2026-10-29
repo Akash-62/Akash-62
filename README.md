@@ -16,33 +16,43 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" align="center" valign="middle">
       <a href="https://github.com/Akash-62/Nexa-RAG-AI"><img src="https://raw.githubusercontent.com/Akash-62/Nexa-RAG-AI/main/docs/screenshots/chat.png" width="100%" alt="Nexa RAG AI document chat interface. View source code." /></a>
-      <h3><a href="https://github.com/Akash-62/Nexa-RAG-AI">Nexa RAG AI ↗</a></h3>
-      <p>Document answers. Clear citations.</p>
-      <sub>LangGraph · ChromaDB · FastAPI</sub>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" align="center" valign="middle">
       <a href="https://for-krishi-ai.vercel.app/"><img src="https://raw.githubusercontent.com/Akash-62/ForKrishi_Ai/main/public/results/forkisan_homescreen.png" width="100%" alt="ForKrishi AI crop assistant interface. Open the live app." /></a>
-      <h3><a href="https://github.com/Akash-62/ForKrishi_Ai">ForKrishi AI ↗</a></h3>
-      <p>Crop support through voice and vision.</p>
-      <sub>Next.js · Gemini · Web Speech</sub>
-      <p><a href="https://for-krishi-ai.vercel.app/">Live demo →</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <strong><a href="https://github.com/Akash-62/Nexa-RAG-AI">Nexa RAG AI ↗</a></strong><br>
+      Document answers with citations.<br>
+      <sub>LangGraph · ChromaDB · FastAPI</sub>
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/Akash-62/ForKrishi_Ai">ForKrishi AI ↗</a></strong><br>
+      Voice and vision for crop support.<br>
+      <sub>Next.js · Gemini · Web Speech · <a href="https://for-krishi-ai.vercel.app/">Demo ↗</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="middle">
       <a href="https://github.com/Akash-62/PostMail-Ai"><img src="https://raw.githubusercontent.com/Akash-62/PostMail-Ai/main/screenshots/home-empty-preview.png" width="100%" alt="PostMail AI email drafting interface. View source code." /></a>
-      <h3><a href="https://github.com/Akash-62/PostMail-Ai">PostMail AI ↗</a></h3>
-      <p>Rough ideas into polished emails.</p>
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <a href="https://akash-s-portfolio-lco5.vercel.app/"><img src="https://raw.githubusercontent.com/Akash-62/Akash-S-Portfolio/main/public/images/world-preview.png" width="100%" alt="Akash's interactive 3D island portfolio. Explore the live portfolio." /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/Akash-62/PostMail-Ai">PostMail AI ↗</a></strong><br>
+      Rough ideas into polished emails.<br>
       <sub>Next.js · FastAPI · Gemini / Groq</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://akash-s-portfolio-lco5.vercel.app/"><img src="https://raw.githubusercontent.com/Akash-62/Akash-S-Portfolio/main/public/images/world-preview.png" width="100%" alt="Akash's interactive 3D island portfolio. Explore the live portfolio." /></a>
-      <h3><a href="https://github.com/Akash-62/Akash-S-Portfolio">3D Portfolio ↗</a></h3>
-      <p>Explore my work in an interactive world.</p>
-      <sub>React · Three.js · React Three Fiber</sub>
-      <p><a href="https://akash-s-portfolio-lco5.vercel.app/">Explore →</a></p>
+      <strong><a href="https://github.com/Akash-62/Akash-S-Portfolio">3D Portfolio ↗</a></strong><br>
+      Explore my work in an interactive world.<br>
+      <sub>React · Three.js · R3F · <a href="https://akash-s-portfolio-lco5.vercel.app/">Demo ↗</a></sub>
     </td>
   </tr>
 </table>
