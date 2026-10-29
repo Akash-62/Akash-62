@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Akash S | AI/ML and software engineer</title>
+  <desc id="desc">Building AI that works for people. An abstract signal flows through connected nodes, representing document intelligence, speech, and AI products.</desc>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1">
+      <stop stop-color="#15243b"/>
+      <stop offset="1" stop-color="#213957"/>
+    </linearGradient>
+    <linearGradient id="signal">
+      <stop stop-color="#7ec9ed"/>
+      <stop offset="1" stop-color="#c4bbf5"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="360" rx="16" fill="url(#background)"/>
+  <g fill="none" stroke="#8fa6c1" opacity=".12">
+    <path d="M720 0v360m80-360v360m80-360v360m80-360v360m80-360v360m80-360v360M680 60h520M680 140h520M680 220h520M680 300h520"/>
+    <circle cx="949" cy="180" r="133"/>
+    <circle cx="949" cy="180" r="92"/>
+  </g>
+  <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace">
+    <text x="56" y="59" font-size="14" letter-spacing="3" fill="#7ec9ed">AKASH S</text>
+    <text x="56" y="308" font-size="13" letter-spacing="1.2" fill="#b0c5db">DOCUMENT INTELLIGENCE / SPEECH / AI PRODUCTS</text>
+  </g>
+  <g font-family="Trebuchet MS, Arial, sans-serif" font-weight="700" font-size="68" fill="#f0f5fc" letter-spacing="-2">
+    <text x="51" y="151">Building AI that</text>
+    <text x="51" y="226">works for <tspan fill="#7ec9ed">people.</tspan></text>
+  </g>
+  <g fill="none" stroke="url(#signal)" stroke-width="2">
+    <path d="M731 180h42l16-26 20 52 22-84 23 116 23-58h38M915 180l62-77 78 25 41 52-41 52-78 25-62-77m62-77v154m78-129v104m-140-52h181m-119-77 78 129m-78 25 78-129" opacity=".7"/>
+  </g>
+  <g fill="#213957" stroke="#c4bbf5" stroke-width="2">
+    <circle cx="977" cy="103" r="7"/>
+    <circle cx="1055" cy="128" r="7"/>
+    <circle cx="1096" cy="180" r="7"/>
+    <circle cx="1055" cy="232" r="7"/>
+    <circle cx="977" cy="257" r="7"/>
+  </g>
+  <circle cx="915" cy="180" r="11" fill="#7ec9ed"/>
+  <circle cx="915" cy="180" r="22" fill="none" stroke="#7ec9ed" opacity=".25"/>
+  <path d="M56 265h575" stroke="#b0c5db" opacity=".2"/>
+  <circle cx="1145" cy="43" r="4" fill="#f3bfa8"/>
+  <path d="M1132 43h-30" stroke="#f3bfa8" opacity=".5"/>
+</svg>
