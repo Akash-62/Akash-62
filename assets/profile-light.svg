@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="640" viewBox="0 0 1200 640" role="img" aria-labelledby="title desc">
-<title id="title">Akash S | AI/ML &amp; Software Engineer</title>
+<title id="title">Akash S | AI Engineer</title>
 <desc id="desc">Akash's portrait transforms into a neural network, a document search symbol, and code. Skills include RAG, AI agents, speech models, Python, FastAPI, React, and Next.js.</desc>
 <style>.still{display:none}@media(prefers-reduced-motion:reduce){.motion{display:none}.still{display:inline}}</style>
 <rect x="1" y="1" width="1198" height="638" rx="18" fill="#f5f7fb" stroke="#d5dfeb"/>
@@ -919,7 +919,7 @@
 </g>
 <path d="M52 140h328M442 140h704M442 521h704" stroke="#d5dfeb"/>
 <g font-family="Menlo,Consolas,monospace"><text x="444" y="178" fill="#526780" font-size="17">Name</text><text x="1144" y="178" text-anchor="end" fill="#1c304b" font-size="20">Akash S</text></g>
-<g font-family="Menlo,Consolas,monospace"><text x="444" y="216" fill="#526780" font-size="17">Role</text><text x="1144" y="216" text-anchor="end" fill="#1c304b" font-size="20">AI/ML &amp; Software Engineer</text></g>
+<g font-family="Menlo,Consolas,monospace"><text x="444" y="216" fill="#526780" font-size="17">Role</text><text x="1144" y="216" text-anchor="end" fill="#1c304b" font-size="20">AI Engineer</text></g>
 <g font-family="Menlo,Consolas,monospace"><text x="444" y="254" fill="#526780" font-size="17">Based</text><text x="1144" y="254" text-anchor="end" fill="#1c304b" font-size="20">Bengaluru, India</text></g>
 <g font-family="Menlo,Consolas,monospace"><text x="444" y="292" fill="#526780" font-size="17">Focus</text><text x="1144" y="292" text-anchor="end" fill="#1c304b" font-size="20">RAG · AI agents · Speech</text></g>
 <g font-family="Menlo,Consolas,monospace"><text x="444" y="330" fill="#526780" font-size="17">Models</text><text x="1144" y="330" text-anchor="end" fill="#1c304b" font-size="20">Whisper · LoRA · Transformers</text></g>

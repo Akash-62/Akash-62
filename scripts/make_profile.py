@@ -16,7 +16,7 @@ ROOT = Path(__file__).resolve().parents[1]
 PARTICLES = 900
 ROWS = [
     ("Name", "Akash S"),
-    ("Role", "AI/ML & Software Engineer"),
+    ("Role", "AI Engineer"),
     ("Based", "Bengaluru, India"),
     ("Focus", "RAG · AI agents · Speech"),
     ("Models", "Whisper · LoRA · Transformers"),
@@ -84,7 +84,7 @@ def render(theme, portrait, frames, static):
     bg, panel, inset, line, muted, text, cyan, violet = THEMES[theme]
     output = [
         '<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="640" viewBox="0 0 1200 640" role="img" aria-labelledby="title desc">',
-        '<title id="title">Akash S | AI/ML &amp; Software Engineer</title>',
+        '<title id="title">Akash S | AI Engineer</title>',
         '<desc id="desc">Akash\'s portrait transforms into a neural network, a document search symbol, and code. Skills include RAG, AI agents, speech models, Python, FastAPI, React, and Next.js.</desc>',
         '<style>.still{display:none}@media(prefers-reduced-motion:reduce){.motion{display:none}.still{display:inline}}</style>',
         f'<rect x="1" y="1" width="1198" height="638" rx="18" fill="{bg}" stroke="{line}"/>',
