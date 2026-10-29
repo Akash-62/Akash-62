@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-light.svg" />
-  <img src="./assets/profile-dark.svg" width="100%" alt="Akash S, AI Engineer in Bengaluru. Animated portrait, neural network, document search, and code. Working with RAG, AI agents, speech models, Python, FastAPI, React, and Next.js." />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-dark.svg?v=9598e4bca7db" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-light.svg?v=c61426420204" />
+  <img src="./assets/profile-dark.svg?v=9598e4bca7db" width="100%" alt="Akash S, AI Engineer in Bengaluru. Animated portrait, neural network, document search, and code. Working with RAG, AI agents, speech models, Python, FastAPI, React, and Next.js." />
 </picture>
 
 <div align="center">
