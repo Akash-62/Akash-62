@@ -14,11 +14,20 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1400&color=5BAED6&center=true&vCenter=true&width=680&height=40&lines=Documents+into+answers.+Voice+into+action.;Learning+fast%2C+building+faster." alt="Documents into answers. Voice into action. Learning fast, building faster." />
 </p>
 
-### Hey, I'm Akash.
-
-I'm an **AI/ML & software engineer based in Bengaluru, India**. I build document intelligence tools, AI agents, and speech applications, with interfaces people can actually use.
-
-My work connects the model to the product: retrieving the right information, building APIs, and bringing the experience to the web. I studied Information Science at VTU and keep learning by building.
+<table>
+  <tr>
+    <td width="40%" valign="top">
+      <img src="./assets/portrait.svg" width="100%" alt="Akash S, cyan ASCII portrait that reveals row by row." />
+    </td>
+    <td width="60%" valign="top">
+      <h3>Hey, I'm Akash.</h3>
+      <p>I'm an <strong>AI/ML & software engineer based in Bengaluru, India</strong>. I build document intelligence tools, AI agents, and speech applications, with interfaces people can actually use.</p>
+      <p>My work connects the model to the product: retrieving the right information, building APIs, and bringing the experience to the web. I studied Information Science at VTU and keep learning by building.</p>
+      <p><code>focus</code> &nbsp; RAG · AI agents · speech</p>
+      <p><sub>Portrait reveal inspired by <a href="https://www.avivashishta.com/blog/build-animated-github-profile-readme">Avi Vashishta's animated README</a>.</sub></p>
+    </td>
+  </tr>
+</table>
 
 ### Selected work
 
