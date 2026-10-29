@@ -64,4 +64,3 @@
 
 <p align="center"><strong>Open to AI engineering roles & collaborations.</strong><br><a href="mailto:akashsofficial62@gmail.com">Let's talk →</a></p>
 
-<p align="center"><sub>Design inspiration: <a href="https://github.com/emmi-lili">emmi-lili</a>.</sub></p>
