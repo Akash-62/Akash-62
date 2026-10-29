@@ -1,33 +1,22 @@
-<p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Akash S. Building AI that works for people. Document intelligence, speech, and AI products." />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-light.svg" />
+  <img src="./assets/profile-dark.svg" width="100%" alt="Akash S, AI/ML and Software Engineer in Bengaluru. Animated portrait, neural network, document search, and code. Working with RAG, AI agents, speech models, Python, FastAPI, React, and Next.js." />
+</picture>
 
 <p align="center">
-  <a href="https://akash-s-portfolio-lco5.vercel.app/">Explore my 3D portfolio</a>
+  <a href="https://akash-s-portfolio-lco5.vercel.app/">Portfolio</a>
   &nbsp; / &nbsp;
   <a href="https://www.linkedin.com/in/akash-s62/">LinkedIn</a>
   &nbsp; / &nbsp;
-  <a href="mailto:akashsofficial62@gmail.com">Get in touch</a>
+  <a href="mailto:akashsofficial62@gmail.com">Email</a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1400&color=5BAED6&center=true&vCenter=true&width=680&height=40&lines=Documents+into+answers.+Voice+into+action.;Learning+fast%2C+building+faster." alt="Documents into answers. Voice into action. Learning fast, building faster." />
-</p>
+### Hey, I'm Akash.
 
-<table>
-  <tr>
-    <td width="40%" valign="top">
-      <img src="./assets/portrait.svg" width="100%" alt="Akash S, cyan ASCII portrait that reveals row by row." />
-    </td>
-    <td width="60%" valign="top">
-      <h3>Hey, I'm Akash.</h3>
-      <p>I'm an <strong>AI/ML & software engineer based in Bengaluru, India</strong>. I build document intelligence tools, AI agents, and speech applications, with interfaces people can actually use.</p>
-      <p>My work connects the model to the product: retrieving the right information, building APIs, and bringing the experience to the web. I studied Information Science at VTU and keep learning by building.</p>
-      <p><code>focus</code> &nbsp; RAG · AI agents · speech</p>
-      <p><sub>Portrait reveal inspired by <a href="https://www.avivashishta.com/blog/build-animated-github-profile-readme">Avi Vashishta's animated README</a>.</sub></p>
-    </td>
-  </tr>
-</table>
+I build **AI tools people can use**: document assistants that answer with citations, agents that work with information, and speech applications that make software easier to access.
+
+My focus is **retrieval-augmented generation (RAG), AI agents, and speech models**. I connect models to APIs and web interfaces using Python, FastAPI, React, and Next.js. Based in Bengaluru, India. B.E. in Information Science, VTU.
 
 ### Selected work
 
@@ -93,3 +82,5 @@
 I'm open to **AI product roles, RAG and LLM projects, and collaborations**. If you're working on a problem where AI can make someone's day easier, [let's talk](mailto:akashsofficial62@gmail.com).
 
 <p align="center"><sub>In progress. Learning fast, building faster.</sub></p>
+
+<p align="center"><sub>Portrait-and-terminal design inspired by <a href="https://github.com/emmi-lili">emmi-lili</a>. Built around my own photo, projects, and skills.</sub></p>
